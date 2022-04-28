@@ -2,3 +2,5 @@
 **/*.JPG
 *.h5
 .ipynb_checkpoints/*
+*.csv
+EE257 Project/.ipynb_checkpoints/*
